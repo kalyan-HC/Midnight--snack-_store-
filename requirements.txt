@@ -1,0 +1,8 @@
+# This project uses only the Python Standard Library.
+# No pip installation is required.
+#
+# Tkinter comes bundled with Python 3 (Windows/macOS installers).
+# On Ubuntu/Debian, install it with:
+#     sudo apt install python3-tk
+#
+# Python version: 3.8 or higher recommended
